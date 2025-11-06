@@ -1,4 +1,9 @@
 function Home() {
-  return <h1>O que precisa ser feito aqui: construir um belo projeto! O que precisa ser protegido? </h1>;
+  return <p>
+    Projeto em andamento.
+    Uma linda homenagem aqui deverá ocorrer.
+    E posteriormente, não só uma homenagem, mas, a de várias outras pessoas.
+    É o meu amor transformado em algo fisíco s2
+  </p>;
 }
 export default Home;
